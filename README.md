@@ -13,6 +13,7 @@ This repository contains individual practice projects to:
 ## 📁 Project List
 
 - `PingPong/` – A classic pong-style game to learn 2D input, ball physics, and UI.
+- `RoadCrossing` - An Arcade-style Road Crossing game featuring grid-based movement, obstacles, collectibles and scoring system.
 - More coming soon...
 
 ## 🚀 How to Use
